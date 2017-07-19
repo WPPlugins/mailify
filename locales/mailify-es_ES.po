@@ -1,0 +1,440 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: es_ES\n"
+"X-Generator: Poedit 1.8.5\n"
+
+#. Text in echo
+msgid "Mailify"
+msgstr "Mailify"
+
+#. Text in echo
+msgid "Configuration"
+msgstr "Configuración"
+
+#. Text in echo
+msgid "Email"
+msgstr "Email"
+
+#. Text in echo
+msgid "For more details"
+msgstr "Leer más"
+
+#. Text in echo
+msgid "https://www.sarbacane.com/ws/soft-redirect.asp?key=9Y4OtEZzaz&com=WordpressInfo"
+msgstr "https://static.mailify.com/ws/soft-redirect.asp?key=9Y4OtEZzaz&com=WordpressInfo&lng=ES"
+
+#. Text in echo
+msgid "For more informations, please take a look to our website"
+msgstr "Para más información, por favor, visita nuestra página web"
+
+#. Text in echo
+msgid "Generate a key"
+msgstr "Generar una nueva clave"
+
+#. Text in echo
+msgid "Go in the plugins menu of Mailify and activate wordpress plugin"
+msgstr "Activa la extensión WordPress desde el menú ''Extensiones'' en Mailify e introduce los siguientes datos:"
+
+#. Text in echo
+msgid "How to set up the module ?"
+msgstr "¿Cómo configurar el módulo?"
+
+#. Text in echo
+msgid "Need help ?"
+msgstr "¿Necesitas ayuda?"
+
+#. Text in echo
+msgid "sarbacane_desktop"
+msgstr "mailify"
+
+#. Text in echo
+msgid "http://mailify.com/?utm_source=module-wordpress&utm_medium=plugin&utm_content=lien-sarbacane&utm_campaign=wordpress"
+msgstr "http://es.mailify.com?utm_source=module-wordpress&utm_medium=plugin&utm_content=lien-sarbacane&utm_campaign=wordpress&lng=ES"
+
+#. Text in echo
+msgid "http://www.mailify.com"
+msgstr "http://es.mailify.com"
+
+#. Text in echo
+msgid "help@mailify.com"
+msgstr "ayuda@mailify.com"
+
+#. Text in echo
+msgid "(646)-844-0983"
+msgstr "+34 93 476 36 38"
+
+#. Text in echo
+msgid "Synchronization key to enter in Mailify"
+msgstr "Clave a insertar en Mailify"
+
+#. Text in echo
+msgid "Take a look at the help section online"
+msgstr "ayuda en línea"
+
+#. Text in echo
+msgid "Phone"
+msgstr "Tel"
+
+#. Text in echo
+msgid "URL to paste in Mailify"
+msgstr "URL a indicar en Mailify"
+
+#. Text in echo
+msgid "Use this tool to add a form widget to your website that will allow subscribers to sign up and be automatically added to your email list."
+msgstr "Esta herramienta te permite configurar un widget WordPress a añadir en tu página. Este widget añadirá en tu lista los detalles de cada suscriptor"
+
+#. Text in echo
+msgid "Mailify widget setup"
+msgstr "Configuración del widget WordPress"
+
+#. Text in echo
+msgid "sarbacane"
+msgstr "Mailify"
+
+#. Text in echo
+msgid "Mailify Widget"
+msgstr "Widget Mailify"
+
+#. Text in function
+msgid "All fields in the widget will be shown in your contact lists with the contact they're associated with."
+msgstr "Los campos configurados en el widget son los que verás en la lista de Mailify"
+
+#. Text in function
+msgid "Mailify Newsletter"
+msgstr "Newsletter Mailify"
+
+#. Text in function
+msgid "Field name"
+msgstr "Nombre del campo"
+
+#. Text in function
+msgid "Default field value"
+msgstr "Valor por defecto del campo"
+
+#. Text in function
+msgid "The default value will be saved if the user does not provide information"
+msgstr "El valor por defecto será utilizado si el usuario no rellena información"
+
+#. Text in function
+msgid "Widget ID"
+msgstr "Identidad del widget"
+
+#. Text in function
+msgid "Title"
+msgstr "Título"
+
+#. Text in function
+msgid "Description"
+msgstr "Descripción"
+
+#. Text in function
+msgid "Widget fields"
+msgstr "Campos del widget"
+
+#. Text in function
+msgid "Add field"
+msgstr "Añadir un campo"
+
+#. Text in function
+msgid "Required fields"
+msgstr "Campos obligatorios"
+
+#. Text in function
+msgid "Widget preview"
+msgstr "Previsualizar el widget"
+
+#. Text in function
+msgid "Save"
+msgstr "Guardar la configuración"
+
+#. Text in function
+msgid "Email isn't valid."
+msgstr "El email no es válido."
+
+#. Text in function
+msgid "Setup this widget by clicking the Mailify widget menu"
+msgstr "Configurar este widget a través del menú Widget Mailify"
+
+#. Text in function
+msgid "Have visitors fill out this form and the associated list will be updated accordingly"
+msgstr "Actualiza una lista de contactos en Mailify gracias a este formulario rellenado por tus visitantes"
+
+#. Text in function
+msgid "Fields marked with * are mandatory"
+msgstr "Los campos con el símbolo * son obligatorios"
+
+#. Text in function
+msgid "Mandatory"
+msgstr "Obligatorio"
+
+#. Text in echo
+msgid "Live tech support and a variety of helpful resources: videos, tutorials, manuals, and a blog full of advice..."
+msgstr "Soporte técnico y numerosos recursos para asistirte: vídeos, tutoriales, guías, consejos..."
+
+#. Text in echo
+msgid "All you need to succeed: design, customize, send, and analyze your campaigns"
+msgstr "Todo lo que necesitas para tener éxito: diseño, personalización, envío y seguimiento de tus campañas"
+
+#. Text in echo
+msgid "Awarded Best Emailing Solution by Bsoco Awards (an index that compares emailing solutions"
+msgstr "Elegidos como Mejor Solución de Emailing por los Premios Bsoco"
+
+#. Text in echo
+msgid "Begin the set-up"
+msgstr "Iniciar configuración"
+
+#. Text in echo
+msgid "Create your free account and start sending emails"
+msgstr "Creación de cuenta y primeros envíos gratuitos"
+
+#. Text in echo
+msgid "Detailed statistics"
+msgstr "Estadísticas detalladas"
+
+#. Text in echo
+msgid "Geolocation, openings, read time, clicks, opt-outs..."
+msgstr "Geolocalización, aperturas, tiempos de lectura, clics, bajas,..."
+
+#. Text in echo
+msgid "Easily manage your newsletters and email marketing campaigns"
+msgstr "Gestiona tus newsletters y emailing con facilidad"
+
+#. Text in echo
+msgid "NEW! Create beautiful, mobile-responsive emails with the EmailBuilder"
+msgstr "¡NUEVO! Crea plantillas de newsletter impresionantes con el EmailBuilder"
+
+#. Text in echo
+msgid "No strings attached"
+msgstr "Oferta sin compromisos"
+
+#. Text in echo
+msgid "Optimal deliverability"
+msgstr "Entregabilidad óptima"
+
+#. Text in echo
+msgid "Best in class deliverability thanks for our unrivaled routing platform"
+msgstr "Entregabilidad optimizada gracias a nuestra reconocida plataforma de enrutamiento profesional"
+
+#. Text in echo
+msgid "Responsive visual editor"
+msgstr "Editor gráfico responsive"
+
+#. Text in echo
+msgid "Synchronization of your website data"
+msgstr "Datos de la tienda sincronizados"
+
+#. Text in echo
+msgid "Synchronize and manage all the email lists from your WordPress website"
+msgstr "Sincroniza y gestiona todas tus listas de tu página WordPress"
+
+#. Text in echo
+msgid "This module lets you synchronize subscribers and accounts from your WordPress site with Mailify to take advantage of all its email marketing features."
+msgstr "Este módulo WordPress permite sincronizar las cuentas y altas en la newsletter de tu tienda online con la aplicación de mailing Mailify, y disfrutar de innumerables características..."
+
+#. Text in echo
+msgid "Loved by over 25,000 users"
+msgstr "Más de 20.000 usuarios en España y Francia están encantados por Mailify"
+
+#. Text in echo
+msgid "Website"
+msgstr "Web"
+
+#. Text in echo
+msgid "Why choose Mailify ?"
+msgstr "¿Por qué elegir Mailify?"
+
+#. Text in echo
+msgid "Automatically synchronize your subscriber list"
+msgstr "Sincronizar una lista \"Inscripción WordPress\""
+
+#. Text in echo
+msgid "All data from the widget will be available in your list"
+msgstr "Todos los campos del widget estarán en la lista"
+
+#. Text in echo
+msgid "Any changes in the structure of the form will cause a refresh of the associated list in Mailify."
+msgstr "El cambio de la estructura del widget supondrá la reinicialización de la lista en Mailify"
+
+#. Text in echo
+msgid "Field"
+msgstr "Campo"
+
+#. Text in echo
+msgid "Required field"
+msgstr "Campo obligatorio"
+
+#. Text in echo
+msgid "Information"
+msgstr "Informaciones"
+
+#. Text in echo
+msgid "Name"
+msgstr "Título"
+
+#. Text in echo
+msgid "Button name"
+msgstr "Botón de validación"
+
+#. Text in echo
+msgid "Mandatory fields message"
+msgstr "Obligatorios campos mensaje"
+
+#. Text in echo
+msgid "Required"
+msgstr "Obligatorio"
+
+#. Text in echo
+msgid "Successful form submission message"
+msgstr "Mensaje al registrarse"
+
+#. Text in echo
+msgid "No"
+msgstr "No"
+
+#. Text in echo
+msgid "Placeholder"
+msgstr "Texto por defecto"
+
+#. Text in echo
+msgid "Preview"
+msgstr "Vista Previa"
+
+#. Text in echo
+msgid "Text to display in the field"
+msgstr "Texto a mostrar en el campo"
+
+#. Text in echo
+msgid "This tool allows you to create a form widget that you can add to WordPress"
+msgstr "Esta herramienta te permite configurar un widget a añadir en tu página WordPress"
+
+#. Text in echo
+msgid "The widget will sync subscribers with your Mailify contact list"
+msgstr "Este widget añadirá direcciones en una lista de Mailify"
+
+#. Text in echo
+msgid "Widget settings"
+msgstr "Parámetros del widget"
+
+#. Text in echo
+msgid "Yes"
+msgstr "Sí"
+
+#. Text in echo
+msgid "Synchronize a ''WordPress Users'' list"
+msgstr "Sincronizar una lista \"usuarios de WordPress\""
+
+#. Text in echo
+msgid "Lists synchronization in Mailify"
+msgstr "Sincronización de las listas en Mailify"
+
+#. Text in echo
+msgid "Connected"
+msgstr "Conectada"
+
+#. Text in echo
+msgid "Generate another key"
+msgstr "Generar una nueva clave"
+
+#. Text in echo
+msgid "Disconnected"
+msgstr "No conectado"
+
+#. Text in echo
+msgid "Please generate a new key"
+msgstr "Gracias generar una nueva clave"
+
+#. Text in echo
+msgid "Setup the widget"
+msgstr "Configurar el widget"
+
+#. Text in echo
+msgid "Lists sync."
+msgstr "Sincronización de las listas"
+
+#. Text in echo
+msgid "Widget"
+msgstr "Widget"
+
+#. Text in echo
+msgid "A new key has been generated"
+msgstr "Se ha generado una clave"
+
+#. Text in echo
+msgid "This plugin allows you to synchronize your WordPress data in Mailify"
+msgstr "Este plugin te permite sincronizar los datos de tu WordPress en Mailify"
+
+#. Text in echo
+msgid "Careful, if you deactivate this list, the 'Contact form' widget and the associated list in Mailify will be deactivated too. Are you sure you wish to deactivate the list?"
+msgstr "Cuidado, si desactiva esta lista, el widget 'Formulario de contacto' será desactivado también. La lista en Mailify será eliminada. ¿Desea continuar?"
+
+#. Text in echo
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#. Text in echo
+msgid "Congrats! You signed up for our newsletter."
+msgstr "¡Enhorabuena! Acabas de inscribirte a nuestra newsletter"
+
+#. Text in echo
+msgid "Lists synchronization"
+msgstr "Sincronización de las listas"
+
+#. Text in echo
+msgid "Advanced settings"
+msgstr "Parámetros avanzados"
+
+#. Text in echo
+msgid "Synchronize your WordPress theme"
+msgstr "Sincronizar el tema del blog"
+
+#. Text in echo
+msgid "Synchronize blog content"
+msgstr "Sincronizar los artículos del blog"
+
+#. Text in echo
+msgid "Synchronize media library"
+msgstr "Sincronizar la biblioteca de medios"
+
+#. Text in echo
+msgid "Synchronize RSS data"
+msgstr "Sincronizar las noticias RSS"
+
+#. Text in echo
+msgid "Mailify's plugin setup"
+msgstr "Configuración del modulo Mailify"
+
+#. Text in echo
+msgid "Connection"
+msgstr "Interconexión"
+
+#. Text in echo
+msgid "Creates a WordPress users list in Mailify with all users who have an account on your blog or website."
+msgstr "Creación de una lista 'Usuarios WordPress' en Mailify que contiene todos los usuarios que disponen de una cuenta en su blog o página web."
+
+#. Text in echo
+msgid "Enables the widget menu on the left menu. It allows you to create an opt-in form which adds subscribers to a list in Mailify. This contact list will only be accessible in Mailify"
+msgstr "Activa el menú 'Widget' en el menú lateral. Este permite crear un formulario opt-in para alimentar una lista de suscriptores en Mailify. Esta lista de contactos será accessible únicamente en Mailify."
+
+#. Text in echo
+msgid "Import the four main colors of your blog into a custom theme for the EmailBuilder"
+msgstr "Permite importar los cuatro colores principales de tu blog en un tema personalizado del EmailBuilder."
+
+#. Text in echo
+msgid "Import all your post content in the EmailBuilder's blocks"
+msgstr "Permite importar el contenido de tus artículos en los módulos del EmailBuilder."
+
+#. Text in echo
+msgid "Import elements from your WordPress media library into the EmailBuilder image blocks"
+msgstr "Permite importar elementos de tu biblioteca multimedia de WordPress en los módulos de imagen del EmailBuilder."
+
+#. Text in echo
+msgid "Add your blog as a source for the EmailBuilder's RSS module"
+msgstr "Añade tu blog como fuente en los módulos RSS del EmailBuilder."
